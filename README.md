@@ -8,4 +8,5 @@ A fantastic experiment I conducted in a branch. Great idea.
 
 A local change.
 
-Let's cast a spell! "Wingardium Leviosaaaaaaaa"
+Let's cast a spell! "Wingardium Leviosaaaaaaaa" (Hermione's version)
+Let's cast a spell! Wing-GAR-dium Levi-O-sa (Ron's version)
